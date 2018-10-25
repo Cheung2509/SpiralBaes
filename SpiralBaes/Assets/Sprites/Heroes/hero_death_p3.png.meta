@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: d740d54fd97514d46810f8993f8149f2
+timeCreated: 1453806628
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_death_p3_0
+    21300002: hero_death_p3_1
+    21300004: hero_death_p3_2
+    21300006: hero_death_p3_3
+    21300008: hero_death_p3_4
+    21300010: hero_death_p3_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_death_p3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 81}
+        - {x: -40, y: 72}
+        - {x: -40, y: 45}
+        - {x: -31, y: 24}
+        - {x: -1, y: 7}
+        - {x: 20, y: 7}
+        - {x: 34, y: 17}
+        - {x: 34, y: 72}
+        - {x: 23, y: 81}
+    - name: hero_death_p3_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 34}
+        - {x: -7, y: 57}
+        - {x: -26, y: 57}
+        - {x: -40, y: 50}
+        - {x: -44, y: 22}
+        - {x: -44, y: 1}
+        - {x: -41, y: -5}
+        - {x: -14, y: -5}
+        - {x: 6, y: -1}
+        - {x: 18, y: 15}
+        - {x: 18, y: 31}
+    - name: hero_death_p3_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 69}
+        - {x: -48, y: 69}
+        - {x: -48, y: 28}
+        - {x: -36, y: -3}
+        - {x: -7, y: -3}
+        - {x: 0, y: 2}
+        - {x: 0, y: 42}
+        - {x: -20, y: 66}
+    - name: hero_death_p3_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 59}
+        - {x: -74, y: 54}
+        - {x: -74, y: 42}
+        - {x: -64, y: 19}
+        - {x: -29, y: -3}
+        - {x: 2, y: -3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 27}
+        - {x: -28, y: 59}
+    - name: hero_death_p3_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 33}
+        - {x: -75, y: 33}
+        - {x: -92, y: 21}
+        - {x: -92, y: -1}
+        - {x: 12, y: -1}
+        - {x: 12, y: 18}
+        - {x: 11, y: 29}
+    - name: hero_death_p3_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 27}
+        - {x: -60, y: 27}
+        - {x: -79, y: 26}
+        - {x: -88, y: 10}
+        - {x: -88, y: -1}
+        - {x: 13, y: -1}
+        - {x: 14, y: 0}
+        - {x: 14, y: 6}
+        - {x: 1, y: 22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

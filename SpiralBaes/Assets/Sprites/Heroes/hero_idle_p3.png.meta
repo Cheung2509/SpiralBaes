@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 124cc1683cac8454d878da93a34c95ff
+timeCreated: 1453807572
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_idle_p3_0
+    21300002: hero_idle_p3_1
+    21300004: hero_idle_p3_2
+    21300006: hero_idle_p3_3
+    21300008: hero_idle_p3_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_idle_p3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 73}
+        - {x: -23, y: 60}
+        - {x: -31, y: 40}
+        - {x: -31, y: -3}
+        - {x: 29, y: -3}
+        - {x: 29, y: 70}
+        - {x: 20, y: 73}
+    - name: hero_idle_p3_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 71}
+        - {x: -28, y: 71}
+        - {x: -31, y: 61}
+        - {x: -31, y: -3}
+        - {x: 29, y: -3}
+        - {x: 29, y: 69}
+    - name: hero_idle_p3_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 69}
+        - {x: -16, y: 69}
+        - {x: -28, y: 57}
+        - {x: -31, y: 42}
+        - {x: -31, y: -3}
+        - {x: 31, y: -3}
+        - {x: 31, y: 65}
+        - {x: 28, y: 68}
+    - name: hero_idle_p3_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -3}
+        - {x: 29, y: 71}
+        - {x: -21, y: 71}
+        - {x: -31, y: 26}
+        - {x: -31, y: -3}
+        - {x: -15, y: -3}
+        - {x: -10, y: -2}
+        - {x: -9, y: 1}
+        - {x: 5, y: -3}
+    - name: hero_idle_p3_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 73}
+        - {x: -16, y: 73}
+        - {x: -28, y: 70}
+        - {x: -31, y: 57}
+        - {x: -31, y: -3}
+        - {x: 21, y: -3}
+        - {x: 25, y: 1}
+        - {x: 29, y: 7}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

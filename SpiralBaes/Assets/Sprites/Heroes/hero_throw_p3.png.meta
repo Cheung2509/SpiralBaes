@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 3dada0977c2f2e74e8bf6befcdc23798
+timeCreated: 1453815192
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_throw_p3_0
+    21300002: hero_throw_p3_1
+    21300004: hero_throw_p3_2
+    21300006: hero_throw_p3_3
+    21300008: hero_throw_p3_4
+    21300010: hero_throw_p3_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_throw_p3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 93}
+        - {x: -33, y: -1}
+        - {x: -26, y: -5}
+        - {x: 25, y: -5}
+        - {x: 25, y: 75}
+        - {x: 13, y: 93}
+    - name: hero_throw_p3_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 89}
+        - {x: -38, y: 89}
+        - {x: -57, y: 79}
+        - {x: -57, y: 69}
+        - {x: -34, y: -2}
+        - {x: -26, y: -5}
+        - {x: 22, y: -5}
+        - {x: 25, y: 1}
+        - {x: 25, y: 22}
+    - name: hero_throw_p3_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 83}
+        - {x: -48, y: 83}
+        - {x: -59, y: 77}
+        - {x: -61, y: 75}
+        - {x: -61, y: 39}
+        - {x: -28, y: -5}
+        - {x: 25, y: -5}
+        - {x: 25, y: 21}
+        - {x: 6, y: 81}
+    - name: hero_throw_p3_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 81}
+        - {x: -33, y: 6}
+        - {x: -28, y: -5}
+        - {x: 39, y: -5}
+        - {x: 41, y: -1}
+        - {x: 41, y: 64}
+        - {x: 30, y: 81}
+    - name: hero_throw_p3_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 67}
+        - {x: -29, y: 63}
+        - {x: -29, y: -5}
+        - {x: 28, y: -5}
+        - {x: 39, y: 0}
+        - {x: 39, y: 64}
+        - {x: 37, y: 67}
+    - name: hero_throw_p3_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 69}
+        - {x: -29, y: 63}
+        - {x: -29, y: -5}
+        - {x: 27, y: -5}
+        - {x: 27, y: 66}
+        - {x: 24, y: 69}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

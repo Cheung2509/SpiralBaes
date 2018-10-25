@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: da326602b84e6c14c9f4f97f1546ca4d
+timeCreated: 1453809763
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_pickup_p3_0
+    21300002: hero_pickup_p3_1
+    21300004: hero_pickup_p3_2
+    21300006: hero_pickup_p3_3
+    21300008: hero_pickup_p3_4
+    21300010: hero_pickup_p3_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_pickup_p3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 73}
+        - {x: -31, y: 55}
+        - {x: -31, y: -5}
+        - {x: 29, y: -5}
+        - {x: 29, y: 73}
+    - name: hero_pickup_p3_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 69}
+        - {x: -29, y: 63}
+        - {x: -29, y: -5}
+        - {x: 27, y: -5}
+        - {x: 27, y: 66}
+        - {x: 24, y: 69}
+    - name: hero_pickup_p3_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 65}
+        - {x: -29, y: 46}
+        - {x: -29, y: -5}
+        - {x: 29, y: -5}
+        - {x: 29, y: 65}
+    - name: hero_pickup_p3_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 67}
+        - {x: -10, y: 67}
+        - {x: -27, y: 53}
+        - {x: -29, y: 42}
+        - {x: -29, y: -5}
+        - {x: 20, y: -5}
+        - {x: 25, y: -2}
+        - {x: 25, y: 39}
+        - {x: 24, y: 53}
+    - name: hero_pickup_p3_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 99}
+        - {x: -33, y: 95}
+        - {x: -33, y: 38}
+        - {x: -30, y: 0}
+        - {x: -29, y: -5}
+        - {x: 25, y: -5}
+        - {x: 25, y: 87}
+        - {x: 8, y: 99}
+    - name: hero_pickup_p3_5
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 93}
+        - {x: -32, y: -1}
+        - {x: -25, y: -5}
+        - {x: 26, y: -5}
+        - {x: 26, y: 75}
+        - {x: 14, y: 93}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

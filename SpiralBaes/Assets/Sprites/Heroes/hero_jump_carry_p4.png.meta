@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 95238e3b1adfb7640a6698188da5fde9
+timeCreated: 1453808373
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_jump_carry_p4_0
+    21300002: hero_jump_carry_p4_1
+    21300004: hero_jump_carry_p4_2
+    21300006: hero_jump_carry_p4_3
+    21300008: hero_jump_carry_p4_4
+    21300010: hero_jump_carry_p4_5
+    21300012: hero_jump_carry_p4_6
+    21300014: hero_jump_carry_p4_7
+    21300016: hero_jump_carry_p4_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_jump_carry_p4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 77}
+        - {x: -29, y: 77}
+        - {x: -29, y: -1}
+        - {x: -24, y: -3}
+        - {x: 17, y: -3}
+        - {x: 24, y: -2}
+        - {x: 27, y: 12}
+        - {x: 27, y: 73}
+    - name: hero_jump_carry_p4_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 93}
+        - {x: -33, y: 92}
+        - {x: -33, y: -23}
+        - {x: 7, y: -23}
+        - {x: 14, y: -20}
+        - {x: 23, y: 5}
+        - {x: 23, y: 44}
+        - {x: 11, y: 93}
+    - name: hero_jump_carry_p4_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 93}
+        - {x: -33, y: -7}
+        - {x: -30, y: -23}
+        - {x: -16, y: -23}
+        - {x: 23, y: -8}
+        - {x: 23, y: 86}
+        - {x: 22, y: 92}
+        - {x: 22, y: 93}
+    - name: hero_jump_carry_p4_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 92}
+        - {x: -33, y: 5}
+        - {x: -31, y: -12}
+        - {x: 21, y: -12}
+        - {x: 21, y: 92}
+    - name: hero_jump_carry_p4_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 80}
+        - {x: 10, y: 93}
+        - {x: -33, y: 93}
+        - {x: -33, y: 10}
+        - {x: -31, y: 2}
+        - {x: -21, y: -1}
+        - {x: 5, y: -1}
+        - {x: 21, y: 15}
+        - {x: 21, y: 42}
+    - name: hero_jump_carry_p4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 93}
+        - {x: -33, y: 18}
+        - {x: -27, y: -5}
+        - {x: 11, y: -5}
+        - {x: 21, y: 1}
+        - {x: 21, y: 72}
+        - {x: 16, y: 93}
+    - name: hero_jump_carry_p4_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 93}
+        - {x: -33, y: 37}
+        - {x: -26, y: -3}
+        - {x: -8, y: -14}
+        - {x: -3, y: -17}
+        - {x: 5, y: -17}
+        - {x: 17, y: -1}
+        - {x: 17, y: 93}
+    - name: hero_jump_carry_p4_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 93}
+        - {x: -35, y: 6}
+        - {x: -33, y: -11}
+        - {x: -16, y: -21}
+        - {x: 11, y: -21}
+        - {x: 17, y: 4}
+        - {x: 17, y: 93}
+    - name: hero_jump_carry_p4_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 93}
+        - {x: -35, y: 93}
+        - {x: -37, y: 89}
+        - {x: -37, y: 6}
+        - {x: -17, y: -21}
+        - {x: 8, y: -21}
+        - {x: 21, y: 26}
+        - {x: 21, y: 75}
+        - {x: 18, y: 80}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

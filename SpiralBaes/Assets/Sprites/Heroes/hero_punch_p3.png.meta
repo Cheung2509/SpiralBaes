@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: ace101bf63b04a442857d315d99a21b4
+timeCreated: 1453810231
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_punch_p3_0
+    21300002: hero_punch_p3_1
+    21300004: hero_punch_p3_2
+    21300006: hero_punch_p3_3
+    21300008: hero_punch_p3_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_punch_p3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 73}
+        - {x: -31, y: 55}
+        - {x: -31, y: -5}
+        - {x: 29, y: -5}
+        - {x: 29, y: 73}
+    - name: hero_punch_p3_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 79}
+        - {x: -31, y: 67}
+        - {x: -31, y: 2}
+        - {x: -28, y: -5}
+        - {x: 25, y: -5}
+        - {x: 25, y: 78}
+        - {x: 21, y: 79}
+    - name: hero_punch_p3_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -5}
+        - {x: 55, y: 41}
+        - {x: 55, y: 60}
+        - {x: 27, y: 77}
+        - {x: -22, y: 77}
+        - {x: -31, y: 74}
+        - {x: -31, y: -1}
+        - {x: -25, y: -5}
+        - {x: -13, y: -5}
+        - {x: -8, y: -4}
+        - {x: -7, y: -1}
+        - {x: 5, y: -3}
+        - {x: 28, y: -5}
+    - name: hero_punch_p3_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 77}
+        - {x: -29, y: 65}
+        - {x: -29, y: -5}
+        - {x: 45, y: -5}
+        - {x: 51, y: 3}
+        - {x: 51, y: 56}
+        - {x: 37, y: 77}
+    - name: hero_punch_p3_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 77}
+        - {x: -29, y: 68}
+        - {x: -29, y: -5}
+        - {x: -10, y: -5}
+        - {x: -7, y: -4}
+        - {x: -3, y: -5}
+        - {x: 37, y: -5}
+        - {x: 37, y: 77}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
