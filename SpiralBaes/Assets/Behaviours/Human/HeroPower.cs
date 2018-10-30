@@ -22,7 +22,7 @@ public class HeroPower : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
     {
-        m_heroPowerBar.localScale = new Vector3(m_heroPower / m_maxHeroPower, 1f, 1f);
+        //m_heroPowerBar.localScale = new Vector3(m_heroPower / m_maxHeroPower, 1f, 1f);
     }
 	
 	// Update is called once per frame
@@ -33,10 +33,10 @@ public class HeroPower : MonoBehaviour {
         {
             m_canFly = !m_canFly;
         }
-        if (UIManager.Instance.m_animFinished)
-        {
-            m_heroPowerBar.localScale = new Vector3(m_heroPower / m_maxHeroPower, 1f, 1f);
-        }
+        //if (UIManager.Instance.m_animFinished)
+        //{
+        //    m_heroPowerBar.localScale = new Vector3(m_heroPower / m_maxHeroPower, 1f, 1f);
+        //}
         m_heroPower += m_heroPowerPerSec * Time.deltaTime;
 
         if(m_heroPower > m_maxHeroPower)
